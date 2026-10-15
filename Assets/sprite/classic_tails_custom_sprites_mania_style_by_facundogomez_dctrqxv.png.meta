@@ -1,0 +1,1835 @@
+fileFormatVersion: 2
+guid: bf8e608be77f5614e920746b692f9b97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -544458705732073894
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_0
+  - first:
+      213: 5468456731102288477
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_1
+  - first:
+      213: -4220894706043964107
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_2
+  - first:
+      213: 8086959927845535594
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_3
+  - first:
+      213: 2336258328050132213
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_4
+  - first:
+      213: -2755885279410417475
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_5
+  - first:
+      213: 5853021303713254007
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_6
+  - first:
+      213: 1357360291935823009
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_7
+  - first:
+      213: -1283912466265911206
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_8
+  - first:
+      213: -7128491172602243303
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_9
+  - first:
+      213: 2800563936011384700
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_10
+  - first:
+      213: -6860107843597005196
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_11
+  - first:
+      213: 6152974145146160850
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_12
+  - first:
+      213: -5436116837909378245
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_13
+  - first:
+      213: 8816600213216010542
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_14
+  - first:
+      213: -3460838947030269429
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_15
+  - first:
+      213: -5734824060107298625
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_16
+  - first:
+      213: 5715521801040961458
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_17
+  - first:
+      213: 1386006477942343708
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_18
+  - first:
+      213: 5689581172451180055
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_19
+  - first:
+      213: 9141477233097124001
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_20
+  - first:
+      213: 8829728241272589642
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_21
+  - first:
+      213: 4165185576160992273
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_22
+  - first:
+      213: -1275767880407081131
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_23
+  - first:
+      213: -2697098421347883375
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_24
+  - first:
+      213: 9058850602646717394
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_25
+  - first:
+      213: -6632421601462348769
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_26
+  - first:
+      213: -783090309989791696
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_27
+  - first:
+      213: 303355612273689109
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_28
+  - first:
+      213: 1216860266483872222
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_29
+  - first:
+      213: -4603213099245524461
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_30
+  - first:
+      213: -5785474268796479897
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_31
+  - first:
+      213: 8923540460637710241
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_32
+  - first:
+      213: 8008991993867497350
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_33
+  - first:
+      213: 55721863080837911
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_34
+  - first:
+      213: 4749513718138759507
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_35
+  - first:
+      213: 7403395110146843831
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_36
+  - first:
+      213: 8160929880996028709
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_37
+  - first:
+      213: 5829520032016490698
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_38
+  - first:
+      213: -150754603904370174
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_39
+  - first:
+      213: 62357822743639504
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_40
+  - first:
+      213: 8528145456127482736
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_41
+  - first:
+      213: -2242504374966805432
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_42
+  - first:
+      213: -7645742246169524636
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_43
+  - first:
+      213: -4051479723566212666
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_44
+  - first:
+      213: -8388452939619516780
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_45
+  - first:
+      213: -1602057039134063868
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_46
+  - first:
+      213: 1884625828309412345
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_47
+  - first:
+      213: -5932144494017838411
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_48
+  - first:
+      213: -4364247830727004516
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_49
+  - first:
+      213: 4379510566752363590
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_50
+  - first:
+      213: -5112518616044899928
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_51
+  - first:
+      213: -7869621347290784151
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_52
+  - first:
+      213: -7007242604737395132
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_53
+  - first:
+      213: 9118509475908049797
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_54
+  - first:
+      213: -5411842443340455261
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_55
+  - first:
+      213: -2522894917613819952
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_56
+  - first:
+      213: -8663600787943036075
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_57
+  - first:
+      213: 4690161720590695742
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_58
+  - first:
+      213: 5021358727846745790
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_59
+  - first:
+      213: 4541149770152922552
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_60
+  - first:
+      213: 4502394312989613921
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_61
+  - first:
+      213: 423869593307590103
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_62
+  - first:
+      213: 8299081286834899581
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_63
+  - first:
+      213: 6141336686513610551
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_64
+  - first:
+      213: -272870793116315395
+    second: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5688f911b1b178f0800000000000000
+      internalID: -544458705732073894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 254
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a12fe7c6cd3eb40800000000000000
+      internalID: 5468456731102288477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 254
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5353cebc0ae5c65c0800000000000000
+      internalID: -4220894706043964107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 254
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f3d043537aa3070800000000000000
+      internalID: 8086959927845535594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 254
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4e9f2429e0c6020800000000000000
+      internalID: 2336258328050132213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 254
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0930f80f021c9d0800000000000000
+      internalID: -2755885279410417475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 206
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a4f967ddb1a3150800000000000000
+      internalID: 5853021303713254007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 206
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a42e017eff46d210800000000000000
+      internalID: 1357360291935823009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 206
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5056851a60ae2ee0800000000000000
+      internalID: -1283912466265911206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 206
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91719800c03821d90800000000000000
+      internalID: -7128491172602243303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 206
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c777ab0df0a9dd620800000000000000
+      internalID: 2800563936011384700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 206
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e878d33400cc0a0800000000000000
+      internalID: -6860107843597005196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 206
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d689999261c36550800000000000000
+      internalID: 6152974145146160850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 206
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b44e6a9880f84b0800000000000000
+      internalID: -5436116837909378245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 206
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21af5b7e2bda5a70800000000000000
+      internalID: 8816600213216010542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_15
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 206
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b028c616051a8ffc0800000000000000
+      internalID: -3460838947030269429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_16
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 206
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8e0f7d6efc960b0800000000000000
+      internalID: -5734824060107298625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 206
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf1c01cbcc915f40800000000000000
+      internalID: 5715521801040961458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_18
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 206
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18c42e5c851c3310800000000000000
+      internalID: 1386006477942343708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 158
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ef3b08ee375fe40800000000000000
+      internalID: 5689581172451180055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 158
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a823112c1d0dde70800000000000000
+      internalID: 9141477233097124001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 158
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d8944bd0f798a70800000000000000
+      internalID: 8829728241272589642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 158
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c18a2a636bdc930800000000000000
+      internalID: 4165185576160992273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 166
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f9b704fdf8b4ee0800000000000000
+      internalID: -1275767880407081131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 158
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196ea4f864bf19ad0800000000000000
+      internalID: -2697098421347883375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 161
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3471490a087bd70800000000000000
+      internalID: 9058850602646717394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_26
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 158
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14953c81b7e4f3a0800000000000000
+      internalID: -6632421601462348769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 158
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03802061387e125f0800000000000000
+      internalID: -783090309989791696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_28
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 158
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512c136725cb53400800000000000000
+      internalID: 303355612273689109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 118
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1fe0517f723e010800000000000000
+      internalID: 1216860266483872222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 110
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31aab0a331a1e10c0800000000000000
+      internalID: -4603213099245524461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 113
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76619372ecdd5bfa0800000000000000
+      internalID: -5785474268796479897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 110
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7e22f15c8c6db70800000000000000
+      internalID: 8923540460637710241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 110
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f6b63f8c7a52f60800000000000000
+      internalID: 8008991993867497350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_34
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 110
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713082f3db6f5c000800000000000000
+      internalID: 55721863080837911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_35
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 110
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35961890099a9e140800000000000000
+      internalID: 4749513718138759507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_36
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 110
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4aa28b0a42eb660800000000000000
+      internalID: 7403395110146843831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 110
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521a3a10d72714170800000000000000
+      internalID: 8160929880996028709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_38
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 110
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0ed5f359d96e050800000000000000
+      internalID: 5829520032016490698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 54
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a760a8c7968edf0800000000000000
+      internalID: -150754603904370174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 54
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5f9910c1a8dd000800000000000000
+      internalID: 62357822743639504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 54
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b1759bb1f0a5670800000000000000
+      internalID: 8528145456127482736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_42
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 54
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c18daf62601e0e0800000000000000
+      internalID: -2242504374966805432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_43
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 54
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4664edc9fedd4e590800000000000000
+      internalID: -7645742246169524636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_44
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 54
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9532638a046c7c0800000000000000
+      internalID: -4051479723566212666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_45
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 54
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49eb5eece7a369b80800000000000000
+      internalID: -8388452939619516780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_46
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 54
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40300886c9954c9e0800000000000000
+      internalID: -1602057039134063868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_47
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9a8e6a439872a10800000000000000
+      internalID: 1884625828309412345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_48
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 26
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b207c5330accada0800000000000000
+      internalID: -5932144494017838411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 26
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e6fb188b31f63c0800000000000000
+      internalID: -4364247830727004516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_50
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 14
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644285528a527cc30800000000000000
+      internalID: 4379510566752363590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 14
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1721fe76fac09b0800000000000000
+      internalID: -5112518616044899928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_52
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 14
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ed6e5641d79c290800000000000000
+      internalID: -7869621347290784151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 14
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44605a91af541ce90800000000000000
+      internalID: -7007242604737395132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_54
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 14
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b58807e047b8e70800000000000000
+      internalID: 9118509475908049797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 26
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a26f4098f545e4b0800000000000000
+      internalID: -5411842443340455261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_56
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 26
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d76df57070ecfcd0800000000000000
+      internalID: -2522894917613819952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 14
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b6cde2cf4b4c780800000000000000
+      internalID: -8663600787943036075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_58
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 14
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d71fe3c3dc61140800000000000000
+      internalID: 4690161720590695742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_59
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 14
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6dc1f98237fa540800000000000000
+      internalID: 5021358727846745790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_60
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 14
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdcfc9e7a7650f30800000000000000
+      internalID: 4541149770152922552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_61
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 14
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f1c70e5c7bb7e30800000000000000
+      internalID: 4502394312989613921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_62
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 14
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd203c3623e1e500800000000000000
+      internalID: 423869593307590103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_63
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 14
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ac2efb5724c2370800000000000000
+      internalID: 8299081286834899581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 14
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fd7bd9d296a3550800000000000000
+      internalID: 6141336686513610551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 14
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df019ba9571963cf0800000000000000
+      internalID: -272870793116315395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d1b2c6a77ece30847abd68b99d9e3d50
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":96.0,"y":96.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_0: -544458705732073894
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_1: 5468456731102288477
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_10: 2800563936011384700
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_11: -6860107843597005196
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_12: 6152974145146160850
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_13: -5436116837909378245
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_14: 8816600213216010542
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_15: -3460838947030269429
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_16: -5734824060107298625
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_17: 5715521801040961458
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_18: 1386006477942343708
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_19: 5689581172451180055
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_2: -4220894706043964107
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_20: 9141477233097124001
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_21: 8829728241272589642
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_22: 4165185576160992273
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_23: -1275767880407081131
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_24: -2697098421347883375
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_25: 9058850602646717394
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_26: -6632421601462348769
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_27: -783090309989791696
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_28: 303355612273689109
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_29: 1216860266483872222
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_3: 8086959927845535594
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_30: -4603213099245524461
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_31: -5785474268796479897
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_32: 8923540460637710241
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_33: 8008991993867497350
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_34: 55721863080837911
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_35: 4749513718138759507
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_36: 7403395110146843831
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_37: 8160929880996028709
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_38: 5829520032016490698
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_39: -150754603904370174
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_4: 2336258328050132213
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_40: 62357822743639504
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_41: 8528145456127482736
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_42: -2242504374966805432
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_43: -7645742246169524636
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_44: -4051479723566212666
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_45: -8388452939619516780
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_46: -1602057039134063868
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_47: 1884625828309412345
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_48: -5932144494017838411
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_49: -4364247830727004516
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_5: -2755885279410417475
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_50: 4379510566752363590
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_51: -5112518616044899928
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_52: -7869621347290784151
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_53: -7007242604737395132
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_54: 9118509475908049797
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_55: -5411842443340455261
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_56: -2522894917613819952
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_57: -8663600787943036075
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_58: 4690161720590695742
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_59: 5021358727846745790
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_6: 5853021303713254007
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_60: 4541149770152922552
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_61: 4502394312989613921
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_62: 423869593307590103
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_63: 8299081286834899581
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_64: 6141336686513610551
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_65: -272870793116315395
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_7: 1357360291935823009
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_8: -1283912466265911206
+      classic_tails_custom_sprites_mania_style_by_facundogomez_dctrqxv_9: -7128491172602243303
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

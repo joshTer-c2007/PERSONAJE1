@@ -1,0 +1,2222 @@
+fileFormatVersion: 2
+guid: 4c688e34afa735b4b8b662215c8d1d1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2580904966209137141
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_0
+  - first:
+      213: 7764982665604521130
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_1
+  - first:
+      213: 7162818927673346624
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_2
+  - first:
+      213: -8472603705496599782
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_3
+  - first:
+      213: 4874832704197435402
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_4
+  - first:
+      213: -1505376554676621718
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_5
+  - first:
+      213: -1749064499462882400
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_6
+  - first:
+      213: 4411061644399812713
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_7
+  - first:
+      213: -3368973224764780005
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_8
+  - first:
+      213: 2177884422686763528
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_9
+  - first:
+      213: 2283003819937870337
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_10
+  - first:
+      213: 1127260719911292375
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_11
+  - first:
+      213: 8312901926740386001
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_12
+  - first:
+      213: 3913457180391600170
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_13
+  - first:
+      213: 3621410749761679647
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_14
+  - first:
+      213: 5377344028694311371
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_15
+  - first:
+      213: -7634440760749361345
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_16
+  - first:
+      213: 4868198641903800350
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_17
+  - first:
+      213: 3423209124307722386
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_18
+  - first:
+      213: 4281098683933084441
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_19
+  - first:
+      213: -309792698432645281
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_20
+  - first:
+      213: -6378633717411524190
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_21
+  - first:
+      213: -4159081077480603685
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_22
+  - first:
+      213: 4090127143876406655
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_23
+  - first:
+      213: -1533985663844529702
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_24
+  - first:
+      213: -4052994721889104982
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_25
+  - first:
+      213: 5807131087463723071
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_26
+  - first:
+      213: -5091669073941922211
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_27
+  - first:
+      213: -4784911382629924717
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_28
+  - first:
+      213: -5410516421656284127
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_29
+  - first:
+      213: -3475171520853988607
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_30
+  - first:
+      213: 3929653043472233670
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_31
+  - first:
+      213: -5797665271392419003
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_32
+  - first:
+      213: -7845098345276217543
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_33
+  - first:
+      213: -498250169090426566
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_34
+  - first:
+      213: 6073398532631744030
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_35
+  - first:
+      213: -4532692812132371912
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_36
+  - first:
+      213: -5964984296861133574
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_37
+  - first:
+      213: -5247912755927833821
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_38
+  - first:
+      213: -1207736182562380890
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_39
+  - first:
+      213: -4867322792030762946
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_40
+  - first:
+      213: 2018148687057668779
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_41
+  - first:
+      213: -8817861499654549589
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_42
+  - first:
+      213: -8026516727635727314
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_43
+  - first:
+      213: 6082289241218609135
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_44
+  - first:
+      213: 5252079973855449989
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_45
+  - first:
+      213: -5577732169699372901
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_46
+  - first:
+      213: 5180383786404449315
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_47
+  - first:
+      213: -4897280090987131348
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_48
+  - first:
+      213: -4595070520821612580
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_49
+  - first:
+      213: 4307014153806386917
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_50
+  - first:
+      213: 8538777057930824907
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_51
+  - first:
+      213: -3572607116679821970
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_52
+  - first:
+      213: -718626743284786384
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_53
+  - first:
+      213: 5782194328230298385
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_54
+  - first:
+      213: -6899547049645324546
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_55
+  - first:
+      213: -6894828924127458557
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_56
+  - first:
+      213: 8218830250290684524
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_57
+  - first:
+      213: -7195560415389428500
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_58
+  - first:
+      213: 910970857595715311
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_59
+  - first:
+      213: 6717012394681747045
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_60
+  - first:
+      213: -7434746128757635048
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_61
+  - first:
+      213: -2840861171923997743
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_62
+  - first:
+      213: 6773462103261189251
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_63
+  - first:
+      213: -1322232448256804623
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_64
+  - first:
+      213: -2603453134991601732
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_65
+  - first:
+      213: 8709953739258079035
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_66
+  - first:
+      213: 9042623411612933461
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_67
+  - first:
+      213: 1654110576997617959
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_68
+  - first:
+      213: -1420245568461219470
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_69
+  - first:
+      213: 8454353671315082141
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_70
+  - first:
+      213: -3772057355717540712
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_71
+  - first:
+      213: -6634585410478781642
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_72
+  - first:
+      213: -3471454058744257591
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_73
+  - first:
+      213: 2660691860554183593
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_74
+  - first:
+      213: 5570919295254034609
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_75
+  - first:
+      213: 5643888019618270889
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_76
+  - first:
+      213: -5257837304842450600
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_77
+  - first:
+      213: -8409643537516630803
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_78
+  - first:
+      213: 2889554847458877240
+    second: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 818
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9efed746731d320800000000000000
+      internalID: 2580904966209137141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 818
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac5c6ef792c2cb60800000000000000
+      internalID: 7764982665604521130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 818
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a0a6e4dd1776360800000000000000
+      internalID: 7162818927673346624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 818
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a138733d1d34b6a80800000000000000
+      internalID: -8472603705496599782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 818
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0025293482e6a340800000000000000
+      internalID: 4874832704197435402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 818
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e6c45dff3db1be0800000000000000
+      internalID: -1505376554676621718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 818
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abb44cca131ab7e0800000000000000
+      internalID: -1749064499462882400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 818
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9602dccd13d373d30800000000000000
+      internalID: 4411061644399812713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 818
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12d710a3b00f31d0800000000000000
+      internalID: -3368973224764780005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 818
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ae910f756693e10800000000000000
+      internalID: 2177884422686763528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_10
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 814
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102b14cd0ebdeaf10800000000000000
+      internalID: 2283003819937870337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 818
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd409bf6a5d4af00800000000000000
+      internalID: 1127260719911292375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 818
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0650c324c5d5370800000000000000
+      internalID: 8312901926740386001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 818
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2071f832946f4630800000000000000
+      internalID: 3913457180391600170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 818
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11735dc3e5d14230800000000000000
+      internalID: 3621410749761679647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 826
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1746957e920aa40800000000000000
+      internalID: 5377344028694311371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_16
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 818
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3775ccb3940d0690800000000000000
+      internalID: -7634440760749361345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 764
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1017ba3fd05f8340800000000000000
+      internalID: 4868198641903800350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 764
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290ec36cf8ea18f20800000000000000
+      internalID: 3423209124307722386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 764
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b49302294896b30800000000000000
+      internalID: 4281098683933084441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_20
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 764
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5799ef9e2563bbf0800000000000000
+      internalID: -309792698432645281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 764
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a15b51fd6a8a77a0800000000000000
+      internalID: -6378633717411524190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 764
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf38b8bbc9f746c0800000000000000
+      internalID: -4159081077480603685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 705
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dafe887fc03c830800000000000000
+      internalID: 4090127143876406655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 705
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad941088a2036bae0800000000000000
+      internalID: -1533985663844529702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 656
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab444d26ced0c7c0800000000000000
+      internalID: -4052994721889104982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 656
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f303760e4f2179050800000000000000
+      internalID: 5807131087463723071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 601
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e79dd34f1c659b0800000000000000
+      internalID: -5091669073941922211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_28
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 605
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390ce94f274989db0800000000000000
+      internalID: -4784911382629924717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 604
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12472cb0bfbf9e4b0800000000000000
+      internalID: -5410516421656284127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 601
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ba1fdf9e5b5cfc0800000000000000
+      internalID: -3475171520853988607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 603
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4f1b27f9ee88630800000000000000
+      internalID: 3929653043472233670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 604
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543490c272e8a8fa0800000000000000
+      internalID: -5797665271392419003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_33
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 604
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9376ecdbe9c902390800000000000000
+      internalID: -7845098345276217543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 540
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39361e6c1cd519f0800000000000000
+      internalID: -498250169090426566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 540
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ec4e489cb094450800000000000000
+      internalID: 6073398532631744030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_36
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 540
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83232e017e3a811c0800000000000000
+      internalID: -4532692812132371912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 539
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af41fc6c26e183da0800000000000000
+      internalID: -5964984296861133574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_38
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 540
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3232ea2372bab27b0800000000000000
+      internalID: -5247912755927833821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 482
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3abff37524d3fe0800000000000000
+      internalID: -1207736182562380890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 482
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3808d575bbc37cb0800000000000000
+      internalID: -4867322792030762946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 482
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa4efbc987e10c10800000000000000
+      internalID: 2018148687057668779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_42
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 482
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf4f726fa9a0a580800000000000000
+      internalID: -8817861499654549589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 428
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2caa8100951c9090800000000000000
+      internalID: -8026516727635727314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 429
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefe30ce6d1a86450800000000000000
+      internalID: 6082289241218609135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_45
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 429
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583d895d8e223e840800000000000000
+      internalID: 5252079973855449989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_46
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 428
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90dcccc42ae792b0800000000000000
+      internalID: -5577732169699372901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_47
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 366
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c84dc5b9b64e740800000000000000
+      internalID: 5180383786404449315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_48
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 366
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e8e1344bd590cb0800000000000000
+      internalID: -4897280090987131348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_49
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 366
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdffe8005b70b30c0800000000000000
+      internalID: -4595070520821612580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 294
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e69538ad8695cb30800000000000000
+      internalID: 4307014153806386917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_51
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 295
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccc83a6e74df7670800000000000000
+      internalID: 8538777057930824907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_52
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 295
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65444081cc8b6ec0800000000000000
+      internalID: -3572607116679821970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 295
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b1a60d8cce606f0800000000000000
+      internalID: -718626743284786384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_54
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 295
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113027c2b1b7e3050800000000000000
+      internalID: 5782194328230298385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_55
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 230
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6cbc28382ef30a0800000000000000
+      internalID: -6899547049645324546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_56
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 230
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b4b46bf95a050a0800000000000000
+      internalID: -6894828924127458557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_57
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 230
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62afc141962f0270800000000000000
+      internalID: 8218830250290684524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_58
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 176
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4d9d80deb342c90800000000000000
+      internalID: -7195560415389428500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 179
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feeb9bf1b2b64ac00800000000000000
+      internalID: 910970857595715311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_60
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 170
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566c6e84f2f973d50800000000000000
+      internalID: 6717012394681747045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_61
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 116
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818c03079c972d890800000000000000
+      internalID: -7434746128757635048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_62
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 116
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db254fc0db3398d0800000000000000
+      internalID: -2840861171923997743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_63
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 116
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384147445eb200e50800000000000000
+      internalID: 6773462103261189251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_64
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 115
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f87823089c76ade0800000000000000
+      internalID: -1322232448256804623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_65
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 115
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfc27bda2daedbd0800000000000000
+      internalID: -2603453134991601732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_66
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 92
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37209e47c8ffd870800000000000000
+      internalID: 8709953739258079035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_67
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 92
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dd1de351add7d70800000000000000
+      internalID: 9042623411612933461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_68
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 44
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721d8215ec494f610800000000000000
+      internalID: 1654110576997617959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_69
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 44
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279db062e264a4ce0800000000000000
+      internalID: -1420245568461219470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 44
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b4148fed5e35570800000000000000
+      internalID: 8454353671315082141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 44
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8948e08f1d5f6abc0800000000000000
+      internalID: -3772057355717540712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_72
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b4c6088b73de3a0800000000000000
+      internalID: -6634585410478781642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_73
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3e5761deae2dfc0800000000000000
+      internalID: -3471454058744257591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_74
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 9
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3fa15762dace420800000000000000
+      internalID: 2660691860554183593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_75
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 9
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b87cf14591ef4d40800000000000000
+      internalID: 5570919295254034609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_76
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 9
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae0e61504e135e40800000000000000
+      internalID: 5643888019618270889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_77
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 9
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859811614d86807b0800000000000000
+      internalID: -5257837304842450600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_78
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 9
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec69a242c1fa4b80800000000000000
+      internalID: -8409643537516630803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_79
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 20
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f5bc103d2c91820800000000000000
+      internalID: 2889554847458877240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_80
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 560
+        width: 3
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75de3c3fca90d2d4a9f81f2a55502013
+      internalID: 303290968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b02c8d1df523f054ab02031da6b3e4b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_0: 2580904966209137141
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_1: 7764982665604521130
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_10: 2283003819937870337
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_11: 1127260719911292375
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_12: 8312901926740386001
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_13: 3913457180391600170
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_14: 3621410749761679647
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_15: 5377344028694311371
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_16: -7634440760749361345
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_17: 4868198641903800350
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_18: 3423209124307722386
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_19: 4281098683933084441
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_2: 7162818927673346624
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_20: -309792698432645281
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_21: -6378633717411524190
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_22: -4159081077480603685
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_23: 4090127143876406655
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_24: -1533985663844529702
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_25: -4052994721889104982
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_26: 5807131087463723071
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_27: -5091669073941922211
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_28: -4784911382629924717
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_29: -5410516421656284127
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_3: -8472603705496599782
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_30: -3475171520853988607
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_31: 3929653043472233670
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_32: -5797665271392419003
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_33: -7845098345276217543
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_34: -498250169090426566
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_35: 6073398532631744030
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_36: -4532692812132371912
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_37: -5964984296861133574
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_38: -5247912755927833821
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_39: -1207736182562380890
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_4: 4874832704197435402
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_40: -4867322792030762946
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_41: 2018148687057668779
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_42: -8817861499654549589
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_43: -8026516727635727314
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_44: 6082289241218609135
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_45: 5252079973855449989
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_46: -5577732169699372901
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_47: 5180383786404449315
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_48: -4897280090987131348
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_49: -4595070520821612580
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_5: -1505376554676621718
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_50: 4307014153806386917
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_51: 8538777057930824907
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_52: -3572607116679821970
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_53: -718626743284786384
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_54: 5782194328230298385
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_55: -6899547049645324546
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_56: -6894828924127458557
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_57: 8218830250290684524
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_58: -7195560415389428500
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_59: 910970857595715311
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_6: -1749064499462882400
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_60: 6717012394681747045
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_61: -7434746128757635048
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_62: -2840861171923997743
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_63: 6773462103261189251
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_64: -1322232448256804623
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_65: -2603453134991601732
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_66: 8709953739258079035
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_67: 9042623411612933461
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_68: 1654110576997617959
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_69: -1420245568461219470
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_7: 4411061644399812713
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_70: 8454353671315082141
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_71: -3772057355717540712
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_72: -6634585410478781642
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_73: -3471454058744257591
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_74: 2660691860554183593
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_75: 5570919295254034609
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_76: 5643888019618270889
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_77: -5257837304842450600
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_78: -8409643537516630803
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_79: 2889554847458877240
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_8: -3368973224764780005
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_80: 303290968
+      sonic_classic_sprite_sonic_by_facundogomez_d7w00cy_9: 2177884422686763528
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
