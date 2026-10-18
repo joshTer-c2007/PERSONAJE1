@@ -8,18 +8,27 @@ public class PlayerController : MonoBehaviour
     private Animator animator;
     private bool isGrounded;
     private bool facingRight = true;
-    
-   void Start()
-{
-    rd = GetComponent<Rigidbody2D>();
-    isGrounded = true; 
-    animator = GetComponent<Animator>();
-}
-    
+
+    // Referencia al script de salud para verificar si hay empujón activo
+    private Health playerHealth;
+
+    void Start()
+    {
+        rd = GetComponent<Rigidbody2D>();
+        isGrounded = true; 
+        animator = GetComponent<Animator>();
+        
+        // Obtenemos el componente Health del mismo personaje
+        playerHealth = GetComponent<Health>();
+    }
+
     void Update()
     {
-       float moveInput = Input.GetAxis("Horizontal");
-       float speedAnim = Mathf.Abs(moveInput);
+        // Si el jugador está sufriendo un empujón (knockback), ignoramos las teclas para no anular la física del golpe
+        if (playerHealth != null && playerHealth.isKnockedBack) return;
+
+        float moveInput = Input.GetAxis("Horizontal");
+        float speedAnim = Mathf.Abs(moveInput);
         rd.linearVelocity = new Vector2(moveInput * speed, rd.linearVelocity.y);
         animator.SetFloat("speed", speedAnim);
 
@@ -39,6 +48,7 @@ public class PlayerController : MonoBehaviour
             animator.SetBool("jump", true);
         } 
     }
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Ground"))
@@ -47,15 +57,8 @@ public class PlayerController : MonoBehaviour
             animator.SetBool("jump", false);
         }
     }
-    private void OnCollisionExit2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Ground"))
-        {
-            isGrounded = false;
-        }
-    }
 
-    void onCollisionExit2D(Collision2D collision)
+    private void OnCollisionExit2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Ground"))
         {
