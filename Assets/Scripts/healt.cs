@@ -37,26 +37,48 @@ public class Health : MonoBehaviour
         }
     }
 
+    // Método original para cuando choca con enemigos (con posición para el knockback)
     public void TakeDamage(int amount, Vector2 enemyPosition)
     {
+        if (isInvincible) return;
+
         currentHealth -= amount;
         Debug.Log("Vida actual: " + currentHealth);
 
-        // Activa la animación de daño (hurt)
         if (animator != null)
         {
             animator.SetTrigger("hurt");
         }
 
-        // Si se queda sin vidas, reinicia la escena
         if (currentHealth <= 0)
         {
             Die();
             return;
         }
 
-        // Aplica el empujón y activa la invulnerabilidad temporal
         StartCoroutine(ApplyKnockback(enemyPosition));
+        StartCoroutine(InvincibilityRoutine());
+    }
+
+    // NUEVO MÉTODO: Sobrecarga simple para trampas (como los pinchos) que no requieren posición de enemigo
+    public void TakeDamage(int amount)
+    {
+        if (isInvincible) return;
+
+        currentHealth -= amount;
+        Debug.Log("Vida actual (por trampa): " + currentHealth);
+
+        if (animator != null)
+        {
+            animator.SetTrigger("hurt");
+        }
+
+        if (currentHealth <= 0)
+        {
+            Die();
+            return;
+        }
+
         StartCoroutine(InvincibilityRoutine());
     }
 
